@@ -1,0 +1,81 @@
+
+body{
+    background-color: #333;
+    color: #ffff;
+}
+
+
+
+.navbar{
+    background: blue;
+    border-bottom: #333 3px solide;
+    opacity: 0.8;
+}
+#Home-section {
+    background: url(./img/andriod.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#Home-section .fa{
+    color: #008ed6;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+
+.dark-overlay {
+    background: rgba(0 , 0, 0, 0.7)
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    min-height: 700px;
+}
+
+
+
+.home-inner {
+    padding-top: 150px;
+}
+
+#explore-section .fa{
+    color: #fff;
+    background-color: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+    
+    
+}
+
+#create-section .fa{
+     color: #008ed6;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+.share-section .fa {
+    
+}
+
+#share-section .fa{
+    color: #fff;
+    background-color: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+    
+}
+
+.card-form {
+    opacity: 0.5;
+}
+
+.bg-primary {
+    
+}
